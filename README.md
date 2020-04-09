@@ -1,0 +1,2 @@
+# EDI3
+Diagnostico
