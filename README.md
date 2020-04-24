@@ -1,2 +1,3 @@
 # EDI3
-Diagnostico
+Repositorio para materia EDI3
+ISFTN °151
