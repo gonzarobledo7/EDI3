@@ -1,0 +1,5 @@
+class ICoche {
+
+    int precioMedioCoche();
+
+};
